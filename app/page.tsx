@@ -295,7 +295,7 @@ Data Analytics Portfolio
 
 <div className="mt-10">
 <h1 className="text-6xl font-semibold tracking-tight leading-[1.03] text-white sm:text-7xl">
-Esther He Wan Ying{' '}
+Esther He{' '}
 <span
 className="inline-block align-middle text-5xl sm:text-6xl"
 style={{
