@@ -337,21 +337,23 @@ Turning Data into Intelligence
 <div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-2xl">
 
 <p className="text-white/75 leading-relaxed text-sm sm:text-base">
-Esther is a Professional with around 10 years of experience in technical project coordination, stakeholder management, financial analysis and business intelligence. 
-Developed multiple Python applications to enhance operational efficiency in data centre operations. 
-Proven track record of executing comprehensive system analysis and formulating strategic decisions. 
-Passionate about leveraging analytical skills to provide insights that drive business success, self-motivated, optimistic,fast adapt to dynamic environments, ideal for innovative companies. 
+Esther is a Professional with nearly 10 years of experience across technical project coordination, stakeholder management, financial analysis and business intelligence. 
+She has developed multiple Python applications that automates workflow and enhance operational efficiency in Infrastructure Team. 
+With a strong track record in system analysis and data-driven decision making, Esther transforms operational data into actionable insights that support strategic planning and business performance. 
+She is a self-motivated and adaptable professional who thrives in dynamic environments and enjoys contributing to innovative, high-growth organizations.
+Passionate about leveraging analytical skills to provide insights that drive business success and solve problems. Good Team Player and Leader.
 <br />
 <br />
 • Project Management, Stakeholder Management, Financial Analysis
 <br />
-• Technical Skills: Business Intelligence, Excel, SQL, Power BI，Tableau，Python to deliver insights and transform complext workflow into systems.
-<br />
-<br />
-🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
-<br />
 🌟 I am dedicated to empowering teams, advancing cutting-edge technologies, and
 creating impactful solutions for complex challenges.
+<br />
+<br />
+• Technical Skills: Business Intelligence, Excel, SQL, Power BI，Tableau，Python to deliver insights and transform complext workflow into systems.
+<br />
+
+🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
 <br />
 <br />
 • Clarity Gate (US & SG)
