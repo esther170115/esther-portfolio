@@ -337,7 +337,11 @@ Turning Data into Intelligence
 <div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-2xl">
 
 <p className="text-white/75 leading-relaxed text-sm sm:text-base">
-Esther is a Data Scientist X Data Analyst specialized in operational analytics, workflow automation, and business intelligence development. 
+Esther is a Professional with around 10 years of experience in technical project coordination, stakeholder management, financial analysis and business intelligence. 
+Developed multiple Python applications to enhance operational efficiency in data centre operations. 
+Proven track record of executing comprehensive system analysis and formulating strategic decisions. 
+Passionate about leveraging analytical skills to provide insights that drive business success, specifically adapting to dynamic environments, ideal for innovative companies. 
+Technical Skills : Power BI, Tableu，SQL , Python and etc.
 <br />
 • Experienced in building Python(Backend), Streamlit(Frontend) analytics tools, improving data quality governance, and transforming complex operational workflows into scalable data systems. 
 <br />
