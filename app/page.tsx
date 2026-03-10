@@ -286,11 +286,20 @@ Business Intelligence Apps Developed
 initial={{ opacity: 0, y: 14 }}
 animate={{ opacity: 1, y: 0 }}
 transition={{ duration: 0.75 }}
+className="relative"
 >
-<div className="max-w-4xl">
+{/* Profile Photo */}
+<div className="absolute top-16 right-12 hidden lg:block">
+  <img
+    src="/profile.jpg"
+    alt="Esther He"
+    className="w-72 h-72 object-cover rounded-2xl border border-white/10 shadow-2xl"
+  />
+</div>
+<div className="text-left">
 <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-[11px] tracking-[0.26em] uppercase text-white/70 backdrop-blur">
 <Sparkles className="h-4 w-4" />
-Data Analytics Portfolio
+Esther's Portfolio
 </div>
 
 <div className="mt-10">
@@ -313,14 +322,19 @@ Integrity • Perseverance • Resilience • Excellence
 Bridging Digital Technology, Business, and Engineering
 </div>
 
+
+
 <div className="mt-10 text-3xl sm:text-4xl font-medium text-white/65 leading-snug">
-Data Analyst | Turning Operational Data into Scalable Intelligence
-</div>
+Turning Data into Intelligence
 </div>
 
-<div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-xl shadow-[0_0_0_1px_rgba(255,255,255,0.03)]">
+
+</div>
+
+<div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-xl">
+
 <p className="text-white/75 leading-relaxed text-sm sm:text-base">
-Esther is a Data Analyst specialized in operational analytics, workflow automation, and business intelligence development. 
+Esther is a Data Scientist X Data Analyst specialized in operational analytics, workflow automation, and business intelligence development. 
 <br />
 • Experienced in building Python(Backend), Streamlit(Frontend) analytics tools, improving data quality governance, and transforming complex operational workflows into scalable data systems. 
 <br />
@@ -335,7 +349,7 @@ creating impactful solutions for complex challenges.
 <br />
 <br />
 • Clarity Gate (US & SG)
-<br />Built a validation-first data gateway (Python + Streamlit) to enforce structured data submission rules, reducing manual verification workload by **80%** and improving data integrity across regional data centers.
+<br />Built a validation-first data gateway (Python + Streamlit) to enforce structured data submission rules, reducing manual verification workload by **9%** and improving data integrity across regional data centers.
 <br />
 <br />
 • Sherlock
