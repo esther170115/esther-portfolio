@@ -182,7 +182,6 @@ impact: [
 '1️⃣ makeVisitorDrafts()',
 '2️⃣ cleanup()',
 '3️⃣ sendAllVisitorDrafts()',
-'', // ✅ blank line spacer
 'Removed repetitive manual processing across high volume batches',
 'Improved operational reliability and traceability',
 ],
@@ -350,7 +349,7 @@ Passionate about leveraging analytical skills to provide insights that drive bus
 creating impactful solutions for complex challenges.
 <br />
 <br />
-• Technical Skills: Business Intelligence, Excel, SQL, Power BI，Tableau，Python to deliver insights and transform complext workflow into systems.
+• Technical Skills: Business Intelligence, Excel, SQL, Power BI, Tableau, Python to deliver insights and transform complext workflow into systems.
 <br />
 
 🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
