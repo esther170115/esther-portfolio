@@ -343,7 +343,7 @@ She is a self-motivated and adaptable professional who thrives in dynamic enviro
 Passionate about leveraging analytical skills to provide insights that drive business success and solve problems. Good Team Player and Leader.
 <br />
 <br />
-• Project Management, Stakeholder Management, Financial Analysis
+• Project Management, Stakeholder Management, Financial Analysis, Business Analysis and System Analysis
 <br />
 🌟 I am dedicated to empowering teams, advancing cutting-edge technologies, and
 creating impactful solutions for complex challenges.
