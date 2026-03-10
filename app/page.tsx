@@ -341,8 +341,7 @@ Esther is a Data Scientist X Data Analyst specialized in operational analytics, 
 • Skilled in Excel, SQL, Power BI and Tableau to deliver insights and automation that improve efficiency, accuracy, and decision-making.
 <br />
 <br />
-🌟 My mission is to drive innovation at the intersection of data science, AI, usability,
-data center operations, and server delivery.
+🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
 <br />
 🌟 I am dedicated to empowering teams, advancing cutting-edge technologies, and
 creating impactful solutions for complex challenges.
