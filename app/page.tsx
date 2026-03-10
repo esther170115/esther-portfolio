@@ -327,7 +327,7 @@ Bridging Digital Technology, Business, Finance and Engineering
 
 
 <div className="mt-10 text-3xl sm:text-4xl font-medium text-white/65 leading-snug">
-Turning Data into Intelligence
+Leadership • Turning Data into Intelligence
 </div>
 
 
