@@ -342,7 +342,10 @@ Developed multiple Python applications to enhance operational efficiency in data
 Proven track record of executing comprehensive system analysis and formulating strategic decisions. 
 Passionate about leveraging analytical skills to provide insights that drive business success, self-motivated, optimistic,fast adapt to dynamic environments, ideal for innovative companies. 
 <br />
-• Techincal Skills: Excel, SQL, Power BI，Tableau，Python to deliver insights and transform complext workflow into systems.
+<br />
+• Project Management, Stakeholder Management, Financial Analysis
+<br />
+• Technical Skills: Business Intelligence, Excel, SQL, Power BI，Tableau，Python to deliver insights and transform complext workflow into systems.
 <br />
 <br />
 🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
