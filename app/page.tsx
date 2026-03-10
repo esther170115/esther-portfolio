@@ -80,7 +80,7 @@ solution:
 'Designed and developed a validation-first data gateway that enforces structured data rules before submission using Python and Streamlit.',
 impact: [
 ' Built with Python, Pandas and Streamlit',
-' Reduced manual validation workload by 80%',
+' Reduced manual validation workload by 98%',
 ' Improved compliance and data quality governance',
 ],
 stack: [
@@ -297,7 +297,7 @@ className="relative"
   />
 </div>
 <div className="text-left">
-<div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-[11px] tracking-[0.26em] uppercase text-white/70 backdrop-blur">
+<div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/50 px-4 py-2 text-[11px] tracking-[0.26em] uppercase text-white/70 backdrop-blur">
 <Sparkles className="h-4 w-4" />
 Esther's Portfolio
 </div>
@@ -316,7 +316,7 @@ textShadow:
 </span>
 </h1>
 
-<div className="mt-5 text-xl sm:text-2xl font-medium text-white/60 leading-snug">
+<div className="mt-5 text-xl sm:text-2xl font-medium text-white leading-snug">
 Integrity • Perseverance • Resilience • Excellence
 <br />
 Bridging Digital Technology, Business, and Engineering
@@ -331,7 +331,7 @@ Turning Data into Intelligence
 
 </div>
 
-<div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-xl">
+<div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-2xl">
 
 <p className="text-white/75 leading-relaxed text-sm sm:text-base">
 Esther is a Data Scientist X Data Analyst specialized in operational analytics, workflow automation, and business intelligence development. 
@@ -348,11 +348,11 @@ creating impactful solutions for complex challenges.
 <br />
 <br />
 • Clarity Gate (US & SG)
-<br />Built a validation-first data gateway (Python + Streamlit) to enforce structured data submission rules, reducing manual verification workload by **9%** and improving data integrity across regional data centers.
+<br />Built a validation-first data gateway to enforce structured data submission rules, reducing manual verification workload by **98%** and improving data integrity across regional data centers.
 <br />
 <br />
 • Sherlock
-<br />Built an automated roster comparison engine using **Python and Pandas**, enabling instant detection of personnel changes between datasets and reducing manual verification cycles.
+<br />Built an automated roster comparison engine to enable instant detection of personnel changes between datasets and reducing manual verification cycles.
 <br />
 <br />
 • Gatekey AI
@@ -360,11 +360,11 @@ creating impactful solutions for complex challenges.
 <br />
 <br />
 • FileSmith AI
-<br />Built automated document processing pipelines for extracting and standardizing metadata from PDF documents, improving traceability and operational clarity across document workflows.
+<br />Built automated document processing pipelines for extracting and standardizing key information from PDF documents, improving traceability and operational clarity across document workflows.
 <br />
 <br />
 • Access Link Hub
-<br />Built automation scripts using **Google Apps Script and Gmail APIs** to streamline operational email workflows, reducing manual processing for high-volume operational tasks.
+<br />Built automation scripts to streamline operational email workflows, reducing manual processing for high-volume operational tasks.
 
 </p>
 </div>
