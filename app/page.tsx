@@ -340,7 +340,7 @@ Esther is a Professional with nearly 10 years of experience across technical pro
 She has developed multiple Python applications that automates workflow and enhance operational efficiency in Infrastructure Team. 
 With a strong track record in system analysis and data-driven decision making, Esther transforms operational data into actionable insights that support strategic planning and business performance. 
 She is a self-motivated and adaptable professional who thrives in dynamic environments and enjoys contributing to innovative, high-growth organizations.
-Passionate about leveraging analytical skills to provide insights that drive business success and solve problems. Good Team Player and Leader.
+Passionate about leveraging analytical skills to provide insights that solve problems and drive business success. Problem Solver, Good Team Player and Leader.
 <br />
 <br />
 • Project Management, Stakeholder Management, Financial Analysis, Business Analysis and System Analysis
