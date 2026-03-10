@@ -322,7 +322,7 @@ textShadow:
 <div className="mt-5 text-xl sm:text-2xl font-medium text-white leading-snug">
 Integrity • Perseverance • Resilience • Excellence
 <br />
-Bridging Digital Technology, Business, and Engineering
+Bridging Digital Technology, Business, Finance and Engineering
 </div>
 
 
@@ -340,12 +340,9 @@ Turning Data into Intelligence
 Esther is a Professional with around 10 years of experience in technical project coordination, stakeholder management, financial analysis and business intelligence. 
 Developed multiple Python applications to enhance operational efficiency in data centre operations. 
 Proven track record of executing comprehensive system analysis and formulating strategic decisions. 
-Passionate about leveraging analytical skills to provide insights that drive business success, specifically adapting to dynamic environments, ideal for innovative companies. 
-Technical Skills : Power BI, Tableu，SQL , Python and etc.
+Passionate about leveraging analytical skills to provide insights that drive business success, self-motivated, optimistic,fast adapt to dynamic environments, ideal for innovative companies. 
 <br />
-• Experienced in building Python(Backend), Streamlit(Frontend) analytics tools, improving data quality governance, and transforming complex operational workflows into scalable data systems. 
-<br />
-• Skilled in Excel, SQL, Power BI and Tableau to deliver insights and automation that improve efficiency, accuracy, and decision-making.
+• Techincal Skills: Excel, SQL, Power BI，Tableau，Python to deliver insights and transform complext workflow into systems.
 <br />
 <br />
 🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
