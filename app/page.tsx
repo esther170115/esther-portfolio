@@ -327,7 +327,7 @@ Bridging Digital Technology, Business, Finance and Engineering
 
 
 <div className="mt-10 text-3xl sm:text-4xl font-medium text-white/65 leading-snug">
-Leadership • Turning Data into Intelligence
+Leadership • Turning Data into Wisdom
 </div>
 
 
@@ -352,7 +352,7 @@ creating impactful solutions for complex challenges.
 • Technical Skills: Business Intelligence, Excel, SQL, Power BI, Tableau, Python to deliver insights and transform complext workflow into systems.
 <br />
 
-🌟 My mission is to drive innovation at the intersection of data science, AI, usability and infrastructure operations.
+🌟 My mission is to drive innovation at the intersection of data science, Artificial Intelligence, usability and infrastructure operations.
 <br />
 <br />
 • Clarity Gate (US & SG)
