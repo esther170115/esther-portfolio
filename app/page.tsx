@@ -214,18 +214,17 @@ const SKILLS = useMemo(
 []
 );
 
-{/*
 const VALUES = useMemo(
 () => [
 {
-eyebrow: 'Mission',
-title: 'Inspire Creativity, Enrich Life',
+eyebrow: 'TikTok Mission',
+title: 'Inspire Creativity and Bring Joy',
 desc: 'Curiosity with taste — explore widely, synthesize deeply, build with intent.',
 },
 {
 eyebrow: 'Growth',
 title: 'Grow Together, Keep Learning',
-desc: 'Iterate fast, reflect often, and compound capabilities through shared progress.',
+desc: 'Build products that help imaginations thrive',
 },
 {
 eyebrow: 'Work Style',
@@ -235,7 +234,6 @@ desc: 'Evidence-led decisions, clear outputs, and calm execution under constrain
 ],
 []
 );
-*/}
 
 const [activeId, setActiveId] = useState(PROJECTS[0].id);
 const activeProject = PROJECTS.find((p) => p.id === activeId) ?? PROJECTS[0];
@@ -377,14 +375,13 @@ creating impactful solutions for complex challenges.
 </p>
 </div>
 
-{/*
+
 <div className="mt-12 grid gap-6 lg:grid-cols-3">
 {VALUES.map((v) => (
 <ValueCard key={v.title} eyebrow={v.eyebrow} title={v.title} desc={v.desc} />
 ))}
 </div>
-</div>
-*/}
+
 </div>
 </motion.section>
 
