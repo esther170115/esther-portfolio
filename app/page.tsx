@@ -186,7 +186,7 @@ impact: [
 'Improved operational reliability and traceability',
 ],
 stack: [
-'Frontend: Gmail UI (User-facing operational), Gmail Labels as workflow state trigger',
+'Frontend: Gmail User Interface, Gmail Labels as workflow state trigger',
 'Backend: Google Apps Script (Runs automation logic, Executes by manual trigger functions, Handles thread scanning and draft generation)',
 'Integration: Gmail App API (Reading threads, extracting email body, creating and sending drafts, removing labels, marking threads as read)',
 'Logic: JavaScript (Regex parsing (pattern matching and extracting specific information from text), Email normalization, Subject generation, Workflow state management (labels))',
@@ -336,7 +336,7 @@ Leadership • Turning Data into Wisdom
 <p className="text-white/75 leading-relaxed text-sm sm:text-base">
 Esther is a Professional with nearly 10 years of experience across technical project coordination, stakeholder management, financial analysis and business intelligence. 
 She has developed multiple Python applications that automates workflow and enhance operational efficiency in Infrastructure Team. 
-With a strong track record in system analysis and data-driven decision making, Esther transforms operational data into actionable insights that support strategic planning and business performance. 
+With a strong track record in business, system analysis and design, Esther translates business requirements into systems and transforms operational data into actionable insights that support strategic planning and business performance. 
 She is a self-motivated and adaptable professional who thrives in dynamic environments and enjoys contributing to innovative, high-growth organizations.
 Passionate about leveraging analytical skills to provide insights that solve problems and drive business success. Problem Solver, Good Team Player and Leader.
 <br />
@@ -347,14 +347,14 @@ Passionate about leveraging analytical skills to provide insights that solve pro
 creating impactful solutions for complex challenges.
 <br />
 <br />
-• Technical Skills: Business Intelligence, Excel, SQL, Power BI, Tableau, Python to deliver insights and transform complext workflow into systems.
+• Technical Skills: Business Intelligence, Excel, SQL, Power BI, Tableau, Python to deliver insights and transform complex workflows into automated systems.
 <br />
 
-🌟 My mission is to drive innovation at the intersection of data science, Artificial Intelligence, usability and infrastructure operations.
+🌟 My mission is to drive innovation at the intersection of Data Science, Artificial Intelligence, Usability and Infrastructure Operations.
 <br />
 <br />
 • Clarity Gate (US & SG)
-<br />Built a validation-first data gateway to enforce structured data submission rules, reducing manual verification workload by **98%** and improving data integrity across regional data centers.
+<br />Built a validation-first data gateway to enforce structured data submission rules, reducing manual verification workload by **98%** and improving data integrity across global data centers.
 <br />
 <br />
 • Sherlock
@@ -366,11 +366,11 @@ creating impactful solutions for complex challenges.
 <br />
 <br />
 • FileSmith AI
-<br />Built automated document processing pipelines for extracting and standardizing key information from PDF documents, improving traceability and operational clarity across document workflows.
+<br />Built automated document processing pipelines for extracting and standardizing key information from PDF documents, improving traceability and information clarity across operational workflows.
 <br />
 <br />
 • Access Link Hub
-<br />Built automation scripts to streamline operational email workflows, reducing manual processing for high-volume operational tasks.
+<br />Built Google app scripts to automate and streamline information transmission workflow, reducing manual processing for high-volume operational tasks.
 
 </p>
 </div>
