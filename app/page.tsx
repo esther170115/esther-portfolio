@@ -208,8 +208,8 @@ const SKILLS = useMemo(
 'System Analysis and Design',
 'Advanced Business Analysis and Design',
 'Business Intelligence Development',
-'Asset and Database Governance',
-'Stakeholder Management', 'Information Architecture',
+'Asset and Data Governance',
+'Stakeholder Management','Software Architecture', 'Information Architecture','Information System Management',
 'Native in English and Chinese (HSK Chinese Proficiency Test Highest Level: HSK6 (High Distinction))'],
 []
 );
