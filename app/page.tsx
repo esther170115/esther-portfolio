@@ -334,11 +334,15 @@ Leadership • Turning Data into Wisdom
 <div className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-7 backdrop-blur-2xl">
 
 <p className="text-white/75 leading-relaxed text-sm sm:text-base">
-Esther is a Professional with nearly 10 years of experience across technical project coordination, stakeholder management, financial analysis and business intelligence. 
-She has developed multiple Python applications that automates workflow and enhance operational efficiency in Infrastructure Team. 
-With a strong track record in business, system analysis and design, Esther translates business requirements into systems and transforms operational data into actionable insights that support strategic planning and business performance. 
-She is a self-motivated and adaptable professional who thrives in dynamic environments and enjoys contributing to innovative, high-growth organizations.
-Passionate about leveraging analytical skills to provide insights that solve problems and drive business success. Problem Solver, Good Team Player and Leader.
+Esther is a Professional with nearly 10 years of experience spanning technical project coordination, stakeholder management, financial analysis, business intelligence and applications. 
+She has developed multiple Python applications that automate operational workflows and significantly improve efficiency within infrastructure operations.
+With a strong track record in business analysis, system design and data engineering, Esther translates business needs into data intelligence applications and transforms operational data into actionable insights that support strategic planning and business performance.
+Esther is a self-motivated and adaptable professional who thrives in dynamic environments and enjoys contributing to innovative, high-growth organizations.
+She is passionate about applying analytics to provide insights that solve problems and drive business success. Problem Solver, Good Team Player and Leader.
+
+
+Esther is a self-motivated and adaptable professional who thrives in dynamic environments and enjoys contributing to innovative, high-growth organizations. She is passionate about leveraging analytical skills and technology to solve complex problems and deliver meaningful business impact.
+
 <br />
 <br />
 • Project Management, Stakeholder Management, Financial Analysis, Business Analysis and System Analysis
