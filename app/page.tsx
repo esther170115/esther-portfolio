@@ -89,7 +89,7 @@ stack: [
 'Backend(Logic/Processing): Python (Validation & Transformation Engine)',
 'Data Processing: Pandas Data Pipeline',
 'Export/Reporting: OpenPyXL Styled Excel Export, Multi-sheet preservation',
-'Workflow / Control: Rule-Based (GOFAI-style)',
+'Workflow / Control: Rule-Based (GOFAI-System)',
 'Governance: Data Integrity Rules((ID/PR/expiry/mandatory fields)), Duplicate detection, Highlight Red',
 'Date Calculator / Local Time',
 ],
