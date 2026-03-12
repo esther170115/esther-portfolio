@@ -90,7 +90,7 @@ stack: [
 'Data Processing: Pandas Data Pipeline',
 'Export/Reporting: OpenPyXL Styled Excel Export, Multi-sheet preservation',
 'Workflow / Control: Rule-Based (GOFAI-System)',
-'Governance: Data Integrity Rules((ID/PR/expiry/mandatory fields)), Duplicate detection, Highlight Red',
+'Governance: Data Integrity Rules((ID/PR/expiry/mandatory fields)), Duplicate/Errors Detection, Highlight Red',
 'Date Calculator / Local Time',
 ],
 gradient: 'from-slate-500/15 via-zinc-500/10 to-transparent',
