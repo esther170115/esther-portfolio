@@ -405,7 +405,7 @@ creating impactful solutions for complex challenges.
 {/* Business Intelligence Apps Developed */}
 <section id="projects" className="mt-20">
 <h2 className="text-3xl font-semibold text-white">
-Business Intelligence Apps Developed
+Applications Developed
 </h2>
 
 <div className="mt-8 grid gap-6 lg:grid-cols-12">
