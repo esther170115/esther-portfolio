@@ -345,7 +345,7 @@ Esther is a self-motivated and adaptable professional who thrives in dynamic env
 
 <br />
 <br />
-• Project Management, Stakeholder Management, Financial Analysis, Business Analysis and System Analysis
+• Project Management, Stakeholder Management, Financial Analysis, Business Analysis and System Design
 <br />
 🌟 I am dedicated to empowering teams, advancing cutting-edge technologies, and
 creating impactful solutions for complex challenges.
